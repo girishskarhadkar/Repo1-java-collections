@@ -1,2 +1,2 @@
-# Repo1-java-collections
-repo for java collections<br> learning git
+# Repo1-java-collections <br>
+# repo for java collections learning git
